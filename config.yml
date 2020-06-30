@@ -1,7 +1,7 @@
 title: Kitsu Status
 name: kitsu
 description: Anime & Manga Tracker
-baseUrl: status.kitsu.io
+baseUrl: https://status.kitsu.io/
 defaultLocale: en
 theme:
   scheduled:
