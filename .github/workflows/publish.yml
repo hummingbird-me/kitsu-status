@@ -42,4 +42,4 @@ jobs:
         run: echo "status.kitsu.io" > dist/CNAME
 
       - name: Publish to Github Pages
-        run: npm run publish
+        run: npx gh-pages-clean && npm run publish
