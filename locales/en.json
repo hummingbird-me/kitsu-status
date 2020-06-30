@@ -1,4 +1,19 @@
 {
   "title": "Kitsu",
-  "description": "Anime & Manga Tracker"
+  "description": "Anime & Manga Tracker",
+  "systems": {
+    "items": {
+      "api": {
+        "title": "API"
+      },
+      "feeds": {
+        "title": "Feeds"
+      },
+      "sync": {
+        "title": "MAL Sync"
+      },
+      "import": {
+        "title": "List Imports"
+      }
+    }
 }

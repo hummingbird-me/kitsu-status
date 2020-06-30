@@ -1,7 +1,15 @@
-title: Kitsu
+title: Kitsu Status
 name: kitsu
 description: Anime & Manga Tracker
+baseUrl: status.kitsu.io
 defaultLocale: en
+theme:
+  scheduled:
+    position: aboveGlobalStatus
+  links:
+    home: https://kitsu.io
+    support: mailto:help@kitsu.io
+    privacy: https://kitsu.io/privacy
 locales:
   - code: en
     iso: en-US
@@ -9,3 +17,8 @@ locales:
     file: en.json
 content:
   frontMatterFormat: yaml
+  systems:
+    - api
+    - feeds
+    - sync
+    - import
