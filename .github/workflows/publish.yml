@@ -1,0 +1,18 @@
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  publish:
+    name: Publish to Github Pages
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+      - name: Install NPM Dependencies
+        run: npm install
+      - name: Build Static Pages
+        run: npm run generate
+      - name: Publish to Github Pages
+        run: npm run publish
