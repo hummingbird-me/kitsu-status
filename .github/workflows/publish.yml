@@ -2,6 +2,9 @@ on:
   push:
     branches:
       - master
+  schedule:
+    # Update nightly, right past midnight
+    - cron:  '1 0 * * *'
 
 jobs:
   publish:
