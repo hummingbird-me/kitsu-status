@@ -38,5 +38,8 @@ jobs:
       - name: Build Static Pages
         run: npm run generate
 
+      - name: Add CNAME file
+        run: echo "status.kitsu.io" > dist/CNAME
+
       - name: Publish to Github Pages
         run: npm run publish
