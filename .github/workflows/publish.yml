@@ -10,9 +10,33 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v2
+
+      - name: Configure Git
+        run: |
+          git remote set-url origin $REMOTE
+          git config user.name "Senko-san"
+          git config user.email "developers@kitsu.io"
+        env:
+          REMOTE: "https://${GITHUB_ACTOR}:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+
+      - name: Setup Node 12
+        uses: actions/setup-node@v2-beta
+        with:
+          node-version: '12'
+
+      - name: Restore Cached Dependencies
+        uses: actions/cache@v1
+        with:
+          path: node_modules
+          key: ${{ runner.os }}-npm-${{ hashFiles('package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-npm-
+
       - name: Install NPM Dependencies
         run: npm install
+
       - name: Build Static Pages
         run: npm run generate
+
       - name: Publish to Github Pages
         run: npm run publish
