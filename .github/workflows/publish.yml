@@ -17,7 +17,7 @@ jobs:
           git config user.name "Senko-san"
           git config user.email "developers@kitsu.io"
         env:
-          REMOTE: "https://${GITHUB_ACTOR}:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+          REMOTE: "https://${{ github.actor }}:${{ github.token }}@github.com/${{ github.repository }}.git"
 
       - name: Setup Node 12
         uses: actions/setup-node@v2-beta
