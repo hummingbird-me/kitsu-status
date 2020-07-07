@@ -1,1 +1,6 @@
-.title { display: none; }
+.title {
+  /* Be kind to screen-reader users. Hides the site title while
+  still reading it to users who can't read the logo image */
+  position: absolute;
+  clip: rect(1px, 1px, 1px, 1px);
+}
