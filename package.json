@@ -15,7 +15,8 @@
     "publish": "gh-pages -d dist"
   },
   "dependencies": {
-    "statusfy": "^0.5.0"
+    "statusfy": "~0.5.0",
+    "prettier": "~2.0.5"
   },
   "engines": {
     "node": ">=10",
