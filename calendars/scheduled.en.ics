@@ -1,0 +1,8 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Statusfy//status.kitsu.io//calendar//scheduled//EN
+NAME:Kitsu Status
+X-WR-CALNAME:Kitsu Status
+TIMEZONE-ID:UTC
+X-WR-TIMEZONE:UTC
+END:VCALENDAR

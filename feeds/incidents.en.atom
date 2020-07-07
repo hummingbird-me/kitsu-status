@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://status.kitsu.io</id>
+    <title>Kitsu Status</title>
+    <updated>2020-07-07T22:05:08.037Z</updated>
+    <generator>Statusfy</generator>
+    <link rel="alternate" href="https://status.kitsu.io"/>
+    <link rel="self" href="https://status.kitsu.io/feeds/incidents.en.atom"/>
+    <subtitle>Anime &amp; Manga Tracker</subtitle>
+    <entry>
+        <title type="html"><![CDATA[MAL Rate Limiting]]></title>
+        <id>https://status.kitsu.io/incidents/601b019a</id>
+        <link href="https://status.kitsu.io/incidents/601b019a"/>
+        <updated>2020-07-07T21:57:10.674Z</updated>
+        <content type="html"><![CDATA[<p>MAL is rate limiting our synchronization system</p>
+<!--- language code: en -->
+]]></content>
+    </entry>
+</feed>

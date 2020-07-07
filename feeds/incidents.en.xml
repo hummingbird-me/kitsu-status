@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Kitsu Status</title>
+        <link>https://status.kitsu.io</link>
+        <description>Anime &amp; Manga Tracker</description>
+        <lastBuildDate>Tue, 07 Jul 2020 22:05:08 GMT</lastBuildDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Statusfy</generator>
+        <atom:link href="https://status.kitsu.io/feeds/incidents.en.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[MAL Rate Limiting]]></title>
+            <link>https://status.kitsu.io/incidents/601b019a</link>
+            <guid>https://status.kitsu.io/incidents/601b019a</guid>
+            <pubDate>Tue, 07 Jul 2020 21:57:10 GMT</pubDate>
+            <content:encoded><![CDATA[<p>MAL is rate limiting our synchronization system</p>
+<!--- language code: en -->
+]]></content:encoded>
+        </item>
+    </channel>
+</rss>
