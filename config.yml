@@ -10,6 +10,7 @@ theme:
     home: https://kitsu.io
     support: mailto:help@kitsu.io
     privacy: https://kitsu.io/privacy
+    legal: https://kitsu.io/terms
 locales:
   - code: en
     iso: en-US
