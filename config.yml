@@ -1,0 +1,11 @@
+title: Kitsu
+name: kitsu
+description: Anime & Manga Tracker
+defaultLocale: en
+locales:
+  - code: en
+    iso: en-US
+    name: English
+    file: en.json
+content:
+  frontMatterFormat: yaml
