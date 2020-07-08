@@ -1,6 +1,88 @@
+:root {
+  --kitsu-white: #edf0f1;
+  --kitsu-orange-lighter: #d65e43;
+  --kitsu-orange: #f75239;
+  --kitsu-purple-lighter: #402F3F;
+  --kitsu-purple: #332532;
+  --kitsu-purple-darker: #271c26;
+  --kitsu-green: #16a085;
+  --kitsu-red: #ff4136;
+  --kitsu-grey: #b4b4b4;
+  --kitsu-yellow: #f39c12;
+
+  --orange: var(--kitsu-orange-lighter);
+  --grey-lightest: var(--kitsu-purple);
+  --white: var(--kitsu-white);
+  --green: var(--kitsu-green);
+  --red: var(--kitsu-red);
+  --grey-darker: var(--kitsu-grey);
+  --purple: var(--kitsu-yellow);
+}
+
+*, *::before, *::after {
+  border-color: var(--kitsu-purple-lightest);
+}
+
+body {
+  color: var(--white);
+}
+
+.btn {
+  color: var(--white);
+  border-color: var(--kitsu-green);
+  background-color: var(--kitsu-green);
+}
+
+.footer a {
+  color: var(--grey-lighter);
+}
+
 .title {
   /* Be kind to screen-reader users. Hides the site title while
   still reading it to users who can't read the logo image */
   position: absolute;
   clip: rect(1px, 1px, 1px, 1px);
+}
+
+.system,
+.incident .incident-systems .badge {
+  background: var(--kitsu-purple);
+  border-color: var(--kitsu-purple-darker);
+  color: var(--white);
+}
+
+.systems-container,
+.incident {
+  background: var(--kitsu-purple-lighter);
+  border-color: var(--kitsu-purple-darker);
+}
+
+.timeline-incident {
+  color: var(--kitsu-purple-lighter);
+}
+
+.timeline-incident {
+  border-color: var(--kitsu-purple-lightest);
+}
+
+.timeline-incident::before {
+  background-color: var(--kitsu-purple);
+}
+
+.timeline-incident.operational::before {
+  border-color: var(--kitsu-purple-lighter);
+}
+
+.timeline-incident > *,
+.system .system-title,
+.system .system-title-info,
+.timeline-incident-body .message,
+.incident .incident-title a {
+  color: var(--white);
+}
+
+.global-status.under-maintenance,
+.incident.under-maintenance .incident-title .badge,
+.incident.under-maintenance .incident-title .badge {
+  color: var(--black);
 }
