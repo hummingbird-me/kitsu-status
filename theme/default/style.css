@@ -45,12 +45,18 @@ body {
   transition: background-color .2s cubic-bezier(0,0,0.3,1), border-color .2s cubic-bezier(0,0,0.3,1), color .2s cubic-bezier(0,0,0.3,1);
 }
 
-.incident .incident-title a > h4:hover {
-  color: var(--grey);
+.incident .incident-title a > h4:hover,
+.footer a:hover {
+  color: var(--grey) !important; /* Default CSS sets important for footer links */
 }
 
 .footer a {
   color: var(--grey-lighter);
+}
+
+.footer a,
+.footer a:hover {
+  transition: color .2s cubic-bezier(0,0,0.3,1);
 }
 
 .title {
