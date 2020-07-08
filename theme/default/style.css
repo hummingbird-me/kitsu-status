@@ -9,14 +9,15 @@
   --kitsu-red: #ff4136;
   --kitsu-grey: #b4b4b4;
   --kitsu-yellow: #f39c12;
+  --kitsu-blue: #2980b9;
 
-  --orange: var(--kitsu-orange-lighter);
+  --orange: var(--kitsu-yellow);
   --grey-lightest: var(--kitsu-purple);
   --white: var(--kitsu-white);
   --green: var(--kitsu-green);
   --red: var(--kitsu-red);
   --grey-darker: var(--kitsu-grey);
-  --purple: var(--kitsu-yellow);
+  --purple: var(--kitsu-blue);
 }
 
 *, *::before, *::after {
@@ -28,9 +29,24 @@ body {
 }
 
 .btn {
-  color: var(--white);
   border-color: var(--kitsu-green);
   background-color: var(--kitsu-green);
+}
+
+.btn:hover {
+  border-color: #12806a;
+  background-color: #12806a;
+}
+
+.btn,
+.btn:hover,
+.incident .incident-title a > h4,
+.incident .incident-title a > h4:hover {
+  transition: background-color .2s cubic-bezier(0,0,0.3,1), border-color .2s cubic-bezier(0,0,0.3,1), color .2s cubic-bezier(0,0,0.3,1);
+}
+
+.incident .incident-title a > h4:hover {
+  color: var(--grey);
 }
 
 .footer a {
@@ -77,12 +93,16 @@ body {
 .system .system-title,
 .system .system-title-info,
 .timeline-incident-body .message,
-.incident .incident-title a {
+.incident .incident-title a,
+.btn:hover,
+.btn,
+.incident.unresolved .incident-title a > * {
   color: var(--white);
 }
 
 .global-status.under-maintenance,
+.global-status.partial-outage,
 .incident.under-maintenance .incident-title .badge,
-.incident.under-maintenance .incident-title .badge {
+.incident.partial-outage .incident-title .badge {
   color: var(--black);
 }

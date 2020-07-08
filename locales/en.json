@@ -1,6 +1,6 @@
 {
   "title": "Kitsu",
-  "description": "Anime & Manga Tracker",
+  "description": "Status alerts for Kitsu, an anime & manga tracker.",
   "systems": {
     "items": {
       "api": {
