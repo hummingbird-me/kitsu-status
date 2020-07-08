@@ -54,6 +54,16 @@ body {
   color: var(--grey-lighter);
 }
 
+a {
+  color: var(--kitsu-orange);
+},
+
+a:hover {
+  color: var(--kitsu-red);
+}
+
+a,
+a:hover,
 .footer a,
 .footer a:hover {
   transition: color .2s cubic-bezier(0,0,0.3,1);
