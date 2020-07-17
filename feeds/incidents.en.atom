@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.kitsu.io</id>
     <title>Kitsu Status</title>
-    <updated>2020-07-17T21:53:04.360Z</updated>
+    <updated>2020-07-17T23:11:19.476Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.kitsu.io"/>
     <link rel="self" href="https://status.kitsu.io/feeds/incidents.en.atom"/>
@@ -13,6 +13,13 @@
         <link href="https://status.kitsu.io/incidents/09860386"/>
         <updated>2020-07-17T21:45:00.000Z</updated>
         <content type="html"><![CDATA[<p>Our API is down in some areas due to a <a href="https://www.cloudflarestatus.com/incidents/b888fyhbygb8" target="_blank" rel="noopener noreferrer" class="external">large internet provider outage</a>.  We are monitoring the situation and will keep you updated</p>
+<div class="update-block">
+          <div class="update-block-date">2020-07-17T23:09:29.000Z</div>
+          <div class="update-block-content">
+            <div class="update-block-title">Resolved</div>
+            <div class="update-block-body">
+<p>Cloudflare has announced the all-clear and Kitsu should be reliably back online.  Thank you for your patience</p>
+</div></div></div>
 <!--- language code: en -->
 ]]></content>
     </entry>
