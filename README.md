@@ -33,3 +33,7 @@ Run `npm run new-incident` or `yarn new-incident` and follow the on-screen instr
 ### Updating a _Service Incident_
 
 Run `npm run update-incident` or `yarn update-incident` and follow the on-screen instructions
+
+## Contributors
+
+[![](https://sourcerer.io/fame/wopian/hummingbird-me/kitsu-status/images/0)](https://sourcerer.io/fame/wopian/hummingbird-me/kitsu-status/links/0)[![](https://sourcerer.io/fame/wopian/hummingbird-me/kitsu-status/images/1)](https://sourcerer.io/fame/wopian/hummingbird-me/kitsu-status/links/1)[![](https://sourcerer.io/fame/wopian/hummingbird-me/kitsu-status/images/2)](https://sourcerer.io/fame/wopian/hummingbird-me/kitsu-status/links/2)[![](https://sourcerer.io/fame/wopian/hummingbird-me/kitsu-status/images/3)](https://sourcerer.io/fame/wopian/hummingbird-me/kitsu-status/links/3)[![](https://sourcerer.io/fame/wopian/hummingbird-me/kitsu-status/images/4)](https://sourcerer.io/fame/wopian/hummingbird-me/kitsu-status/links/4)[![](https://sourcerer.io/fame/wopian/hummingbird-me/kitsu-status/images/5)](https://sourcerer.io/fame/wopian/hummingbird-me/kitsu-status/links/5)[![](https://sourcerer.io/fame/wopian/hummingbird-me/kitsu-status/images/6)](https://sourcerer.io/fame/wopian/hummingbird-me/kitsu-status/links/6)[![](https://sourcerer.io/fame/wopian/hummingbird-me/kitsu-status/images/7)](https://sourcerer.io/fame/wopian/hummingbird-me/kitsu-status/links/7)
