@@ -1,1 +1,1 @@
-[{"name":"api","status":"partial-outage","order":1},{"name":"feeds","status":"operational","order":2},{"name":"sync","status":"partial-outage","order":3},{"name":"import","status":"operational","order":4}]
+[{"name":"api","status":"operational","order":1},{"name":"feeds","status":"operational","order":2},{"name":"sync","status":"partial-outage","order":3},{"name":"import","status":"operational","order":4}]
