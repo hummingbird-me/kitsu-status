@@ -4,10 +4,19 @@
         <title>Kitsu Status</title>
         <link>https://status.kitsu.io</link>
         <description>Status alerts for Kitsu, an anime &amp; manga tracker.</description>
-        <lastBuildDate>Thu, 30 Jul 2020 00:20:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jul 2020 19:28:10 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.kitsu.io/feeds/incidents.en.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Login Problems]]></title>
+            <link>https://status.kitsu.io/incidents/4eed1914</link>
+            <guid>https://status.kitsu.io/incidents/4eed1914</guid>
+            <pubDate>Thu, 30 Jul 2020 19:26:36 GMT</pubDate>
+            <content:encoded><![CDATA[<p>Logins are failing, our engineers are working on the problem.</p>
+<!--- language code: en -->
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Cloudflare Outage]]></title>
             <link>https://status.kitsu.io/incidents/09860386</link>
