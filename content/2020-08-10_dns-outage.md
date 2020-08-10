@@ -5,8 +5,6 @@ severity: major-outage
 affectedsystems:
   - api
   - feeds
-  - sync
-  - import
 resolved: true
 modified: '2020-08-10T19:20:00.000Z'
 ---
