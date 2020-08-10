@@ -6,6 +6,12 @@
       "api": {
         "title": "API"
       },
+      "dns": {
+        "title": "DNS"
+      },
+      "cdn": {
+        "title": "CDN"
+      },
       "feeds": {
         "title": "Feeds"
       },

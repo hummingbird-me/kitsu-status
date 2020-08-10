@@ -22,6 +22,8 @@ content:
   frontMatterFormat: yaml
   systems:
     - api
+    - cdn
+    - dns
     - feeds
     - sync
     - import

@@ -4,7 +4,8 @@ date: '2020-08-10T19:00:00.000Z'
 severity: major-outage
 affectedsystems:
   - api
-  - feeds
+  - cdn
+  - dns
 resolved: true
 modified: '2020-08-10T19:20:00.000Z'
 ---
