@@ -4,10 +4,34 @@
         <title>Kitsu Status</title>
         <link>https://status.kitsu.io</link>
         <description>Status alerts for Kitsu, an anime &amp; manga tracker.</description>
-        <lastBuildDate>Mon, 17 Aug 2020 00:22:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Aug 2020 16:45:50 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.kitsu.io/feeds/incidents.en.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Feed & Notifications Delayed]]></title>
+            <link>https://status.kitsu.io/incidents/40a01458</link>
+            <guid>https://status.kitsu.io/incidents/40a01458</guid>
+            <pubDate>Mon, 17 Aug 2020 11:42:20 GMT</pubDate>
+            <content:encoded><![CDATA[<p>Posts and notifications are not appearing on user feeds.</p>
+<p>Posts are not being lost and will appear in user feeds when this issue has been resolved. Comments and likes are unaffected by this.</p>
+<div class="update-block">
+          <div class="update-block-date">2020-08-17T14:38:07.000Z</div>
+          <div class="update-block-content">
+            <div class="update-block-title">Update</div>
+            <div class="update-block-body">
+<p>We are investigating the cause of this issue.</p>
+<div class="update-block">
+          <div class="update-block-date">2020-08-17T16:02:09.000Z</div>
+          <div class="update-block-content">
+            <div class="update-block-title">Update</div>
+            <div class="update-block-body">
+<p>There is an issue with our worker services that handle feed posts and notifications that are preventing them from being sent to users.</p>
+<!--- language code: en -->
+</div></div></div>
+</div></div></div>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[DNS Outage]]></title>
             <link>https://status.kitsu.io/incidents/a1805e8c</link>
