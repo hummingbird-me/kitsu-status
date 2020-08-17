@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.kitsu.io</id>
     <title>Kitsu Status</title>
-    <updated>2020-08-17T17:40:16.532Z</updated>
+    <updated>2020-08-17T18:57:12.270Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.kitsu.io"/>
     <link rel="self" href="https://status.kitsu.io/feeds/incidents.en.atom"/>
@@ -41,8 +41,8 @@
             <div class="update-block-title">Resolved</div>
             <div class="update-block-body">
 <p>This incident has been resolved.</p>
-<!--- language code: en -->
 </div></div></div>
+<!--- language code: en -->
 ]]></content>
     </entry>
     <entry>
