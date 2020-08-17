@@ -4,22 +4,27 @@
   "systems": {
     "items": {
       "api": {
-        "title": "API"
+        "title": "API",
+        "description": "JSON:API, GraphQL and OAuth2"
       },
       "dns": {
         "title": "DNS"
       },
       "cdn": {
-        "title": "CDN"
+        "title": "CDN",
+        "description": "Avatars, posters and cover images"
       },
       "feeds": {
-        "title": "Feeds"
+        "title": "Feeds",
+        "description": "Posts, comments and notifications"
       },
       "sync": {
-        "title": "MAL Sync"
+        "title": "MAL Sync",
+        "description": "Exports to MyAnimeList"
       },
       "import": {
-        "title": "List Imports"
+        "title": "List Imports",
+        "description": "Imports from MyAnimeList or AniList"
       }
     }
   }
