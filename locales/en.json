@@ -12,7 +12,7 @@
       },
       "cdn": {
         "title": "CDN",
-        "description": "Avatars, posters and cover images"
+        "description": "Avatars, posters, cover images and user uploads"
       },
       "feeds": {
         "title": "Feeds",
