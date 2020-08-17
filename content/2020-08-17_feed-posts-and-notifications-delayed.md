@@ -25,5 +25,6 @@ The issue has been remediated and the queue for delivering posts and comments ar
 
 ::: update Resolved | 2020-08-17T17:05:19.000Z
 This incident has been resolved.
+:::
 
 <!--- language code: en -->
