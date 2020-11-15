@@ -1,4 +1,5 @@
 # Kitsu Status
+[![Kitsu Status Deployment](https://github.com/hummingbird-me/kitsu-status/workflows/Kitsu%20Status%20Deployment/badge.svg)](https://status.kitsu.io)
 
 ---
 **<p align="center">This is our service status repository. It contains the Statusfy app.<br />Check out the [tools], [web], [mobile], [server] and [api docs] repositories.</p>**
