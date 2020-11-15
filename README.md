@@ -5,7 +5,7 @@
 **<p align="center">This is our service status repository. It contains the Statusfy app.<br />Check out the [tools], [web], [mobile], [server] and [api docs] repositories.</p>**
 
 [tools]:https://github.com/hummingbird-me/kitsu-tools
-[web]:https://github.com/hummingbird-me/hummingbird-client
+[web]:https://github.com/hummingbird-me/kitsu-web
 [mobile]:https://github.com/hummingbird-me/kitsu-mobile
 [server]:https://github.com/hummingbird-me/kitsu-server
 [api docs]:https://github.com/hummingbird-me/api-docs
