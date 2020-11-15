@@ -10,4 +10,6 @@ Our quick search is currently unavailable. Advanced search for [anime](https://k
 
 <!--- language code: en -->
 
-::: update Resolved | 2020-11-14T16:09:32-08:00 This incident has been resolved. :::
+::: update Resolved | 2020-11-14T16:09:32-08:00
+This incident has been resolved.
+:::
