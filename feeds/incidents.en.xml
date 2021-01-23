@@ -4,10 +4,21 @@
         <title>Kitsu Status</title>
         <link>https://status.kitsu.io</link>
         <description>Status alerts for Kitsu, an anime &amp; manga tracker.</description>
-        <lastBuildDate>Sat, 23 Jan 2021 01:03:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jan 2021 03:09:55 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.kitsu.io/feeds/incidents.en.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Moving To New Servers]]></title>
+            <link>https://status.kitsu.io/incidents/b30cae02</link>
+            <guid>https://status.kitsu.io/incidents/b30cae02</guid>
+            <pubDate>Sat, 23 Jan 2021 03:04:39 GMT</pubDate>
+            <content:encoded><![CDATA[<p>We're moving Kitsu to new servers! We should be back online shortly, and if you
+have any questions you can talk to us on <a href="https://invite.gg/kitsu" target="_blank" rel="noopener noreferrer" class="external">our Discord</a>
+in #tech-support!</p>
+<!--- language code: en -->
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Kitsu Unavailable]]></title>
             <link>https://status.kitsu.io/incidents/53fb0ccf</link>

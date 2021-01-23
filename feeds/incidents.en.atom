@@ -2,11 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.kitsu.io</id>
     <title>Kitsu Status</title>
-    <updated>2021-01-23T01:03:25.827Z</updated>
+    <updated>2021-01-23T03:09:55.933Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.kitsu.io"/>
     <link rel="self" href="https://status.kitsu.io/feeds/incidents.en.atom"/>
     <subtitle>Status alerts for Kitsu, an anime &amp; manga tracker.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[Moving To New Servers]]></title>
+        <id>https://status.kitsu.io/incidents/b30cae02</id>
+        <link href="https://status.kitsu.io/incidents/b30cae02"/>
+        <updated>2021-01-23T03:04:39.000Z</updated>
+        <content type="html"><![CDATA[<p>We're moving Kitsu to new servers! We should be back online shortly, and if you
+have any questions you can talk to us on <a href="https://invite.gg/kitsu" target="_blank" rel="noopener noreferrer" class="external">our Discord</a>
+in #tech-support!</p>
+<!--- language code: en -->
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kitsu Unavailable]]></title>
         <id>https://status.kitsu.io/incidents/53fb0ccf</id>
