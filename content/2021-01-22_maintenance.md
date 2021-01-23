@@ -4,6 +4,7 @@ date: '2021-01-22T19:04:39-08:00'
 scheduled: '2021-01-22T19:04:39-08:00'
 duration: 180
 severity: under-maintenance
+resolved: true
 affectedsystems:
   - api
   - feeds
