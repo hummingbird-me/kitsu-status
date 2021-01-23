@@ -4,10 +4,21 @@
         <title>Kitsu Status</title>
         <link>https://status.kitsu.io</link>
         <description>Status alerts for Kitsu, an anime &amp; manga tracker.</description>
-        <lastBuildDate>Sat, 23 Jan 2021 03:09:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jan 2021 07:50:49 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.kitsu.io/feeds/incidents.en.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[MAL Sync]]></title>
+            <link>https://status.kitsu.io/incidents/0fe30bcd</link>
+            <guid>https://status.kitsu.io/incidents/0fe30bcd</guid>
+            <pubDate>Sat, 23 Jan 2021 07:48:39 GMT</pubDate>
+            <content:encoded><![CDATA[<p>MyAnimeList has added a Captcha to their login form and our sync is no longer
+working. We are working to move it over to their new API, but until then it will
+be down.</p>
+<!--- language code: en -->
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Moving To New Servers]]></title>
             <link>https://status.kitsu.io/incidents/b30cae02</link>
