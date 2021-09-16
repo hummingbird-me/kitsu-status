@@ -6,7 +6,8 @@ affectedsystems:
   - api
   - feeds
   - import
-resolved: false
+resolved: true
+modified: '2021-09-16T08:27:48.900Z'
 ---
 Due to an unexpected issue with a software upgrade, Kitsu is temporarily down.
 
