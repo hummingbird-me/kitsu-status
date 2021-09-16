@@ -2,11 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.kitsu.io</id>
     <title>Kitsu Status</title>
-    <updated>2021-03-25T00:13:52.325Z</updated>
+    <updated>2021-09-16T06:05:56.444Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.kitsu.io"/>
     <link rel="self" href="https://status.kitsu.io/feeds/incidents.en.atom"/>
     <subtitle>Status alerts for Kitsu, an anime &amp; manga tracker.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[Site down for upgrades]]></title>
+        <id>https://status.kitsu.io/incidents/68e26d75</id>
+        <link href="https://status.kitsu.io/incidents/68e26d75"/>
+        <updated>2021-09-16T05:30:01.908Z</updated>
+        <content type="html"><![CDATA[<p>Due to an unexpected issue with a software upgrade, Kitsu is temporarily down.</p>
+<!--- language code: en -->
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MAL Sync]]></title>
         <id>https://status.kitsu.io/incidents/0fe30bcd</id>
