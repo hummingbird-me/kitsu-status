@@ -2,11 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.kitsu.io</id>
     <title>Kitsu Status</title>
-    <updated>2021-11-16T00:07:12.320Z</updated>
+    <updated>2023-05-11T09:00:29.658Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.kitsu.io"/>
     <link rel="self" href="https://status.kitsu.io/feeds/incidents.en.atom"/>
     <subtitle>Status alerts for Kitsu, an anime &amp; manga tracker.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[MyAnimeList Emergency Maintenance]]></title>
+        <id>https://status.kitsu.io/incidents/78c1a4e4</id>
+        <link href="https://status.kitsu.io/incidents/78c1a4e4"/>
+        <updated>2023-05-10T22:55:00.530Z</updated>
+        <content type="html"><![CDATA[<p>MyAnimeList has gone down for emergency maintenance. We are monitoring the situation and will update
+this page when we have more information. For more information, please see the <a href="https://help.myanimelist.net/hc/en-us/articles/18386999339417-Notice-of-Emergency-Maintenance-on-May-10-2023" target="_blank" rel="noopener noreferrer" class="external">MyAnimeList status
+page</a></p>
+<!--- language code: en -->
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Site down for upgrades]]></title>
         <id>https://status.kitsu.io/incidents/68e26d75</id>
