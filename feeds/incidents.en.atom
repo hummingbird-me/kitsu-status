@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.kitsu.io</id>
     <title>Kitsu Status</title>
-    <updated>2023-05-30T00:06:38.961Z</updated>
+    <updated>2023-05-31T00:07:04.488Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.kitsu.io"/>
     <link rel="self" href="https://status.kitsu.io/feeds/incidents.en.atom"/>
