@@ -4,7 +4,7 @@
         <title>Kitsu Status</title>
         <link>https://status.kitsu.io</link>
         <description>Status alerts for Kitsu, an anime &amp; manga tracker.</description>
-        <lastBuildDate>Sat, 11 Nov 2023 00:07:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Nov 2023 00:07:47 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.kitsu.io/feeds/incidents.en.xml" rel="self" type="application/rss+xml"/>
